@@ -5,7 +5,7 @@
 
 ---
 
-## 📋 Sobre o Projeto
+## 📋 Sobre o Projeto 
 
 Sistema para estimular o reconhecimento do mérito estudantil através de uma moeda virtual distribuída por professores aos seus alunos e trocada por produtos e descontos em empresas parceiras.
 
